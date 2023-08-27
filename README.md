@@ -64,12 +64,7 @@ The tool will analyze the responses from Instagram's login endpoint for each pas
 
 
 ## ScreenShot
-
-<img width="647" alt="image" src="https://github.com/NxOp/InstaBrute/assets/143170755/401ef974-3e7e-437a-8db8-ba5827380f99">
-
-
-<img width="721" alt="image" src="https://github.com/NxOp/InstaBrute/assets/143170755/70695178-25ea-4de9-a9c8-3557e30b6bc5">
-
+<img width="721" alt="image" src="https://github.com/NxOp/InstaBrute/assets/143170755/80eaa526-3374-4a22-b174-7d1d97418963">
 
 ## Disclaimer
 
